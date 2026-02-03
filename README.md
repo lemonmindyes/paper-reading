@@ -35,3 +35,10 @@
 | 21/11/2025 |       Asking LLMs to Verify First is Almost Free Lunch       |  **LLM 推理能力与推理策略**   |  ⭐⭐   | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa753177e96ba231a46c8f23034234d1b40b6c176%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageNet-classification-with-deep-convolutional-Krizhevsky-Sutskever/a753177e96ba231a46c8f23034234d1b40b6c176) |           [link](https://arxiv.org/abs/2511.21734)           |
 | 11/1/2026  |           Tensor Product Attention Is All You Need           | **Transformer多头注意力机制** | ⭐⭐⭐⭐  | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb4f9e9130b29754c526c454ab54043b49bdd387d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageNet-classification-with-deep-convolutional-Krizhevsky-Sutskever/b4f9e9130b29754c526c454ab54043b49bdd387d) |           [link](https://arxiv.org/abs/2501.06425)           |
 
+
+
+## 其他
+
+|   日期    |                             标题                             |           领域           | star |                             引用                             |                   link                   |
+| :-------: | :----------------------------------------------------------: | :----------------------: | :--: | :----------------------------------------------------------: | :--------------------------------------: |
+| 17/5/2018 | Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates | **学习率调度与优化策略** |  ⭐   | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1269e191091eadeed6f246cf5a6692b178bb4d94%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ImageNet-classification-with-deep-convolutional-Krizhevsky-Sutskever/1269e191091eadeed6f246cf5a6692b178bb4d94) | [link](https://arxiv.org/abs/1708.07120) |
